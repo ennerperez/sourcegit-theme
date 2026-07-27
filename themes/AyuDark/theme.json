@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Ayu Dark",
+  "Author": "@Hectoralvf",
+  "Url": "https://codeberg.org/hectoralvf",
   "BasicColors": {
     "Window": "#0d1017",
     "WindowBorder": "#0d1017",

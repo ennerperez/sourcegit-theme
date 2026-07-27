@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "AdwaitaLight",
+  "Author": "@W-Floyd",
+  "Url": "https://github.com/W-Floyd",
   "BasicColors": {
     "Window": "#ffffff",
     "WindowBorder": "#d5d5d7",

@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Panda",
+  "Author": "@WTFive",
+  "Url": "https://github.com/wtfive",
   "BasicColors": {
     "Window": "#292A2B",
     "WindowBorder": "#222223",

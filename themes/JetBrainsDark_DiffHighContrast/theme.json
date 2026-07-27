@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "JetBrainsDark DiffHighContrast",
+  "Author": "@MelonHell",
+  "Url": "https://gist.github.com/MelonHell",
   "BasicColors": {
     "Window": "#2b2d30",
     "WindowBorder": "#2b2d30",

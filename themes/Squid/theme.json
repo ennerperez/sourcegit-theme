@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Squid",
+  "Author": "@ilianoKokoro",
+  "Url": "https://github.com/ilianoKokoro",
     "BasicColors": {
         "Window": "#282A32",
         "WindowBorder": "#1E1F22",

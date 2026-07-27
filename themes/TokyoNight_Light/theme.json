@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "TokyoNight Light",
+  "Author": "tokyo-night",
+  "Url": "https://github.com/tokyo-night/tokyo-night-vscode-theme",
   "BasicColors": {
     "Window": "#d5d6db",
     "WindowBorder": "#b4b5b9",

@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Nord",
+  "Author": "@JeanFranz73",
+  "Url": "https://gist.github.com/JeanFranz73",
   "BasicColors": {
     "Window": "#2e3440",
     "WindowBorder": "#2e3440",
