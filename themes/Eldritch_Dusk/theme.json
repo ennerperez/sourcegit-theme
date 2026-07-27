@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Eldritch Dusk",
+  "Author": "@eldritch-theme",
+  "Url": "https://github.com/eldritch-theme",
   "BasicColors": {
     "Window": "#f0f3f4",
     "WindowBorder": "#f0f3f4",
