@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Monokai",
+  "Author": "@RyanKneeya",
+  "Url": "https://github.com/RyanKneeya",
   "BasicColors": {
     "Window": "#272822",
     "WindowBorder": "#131313",

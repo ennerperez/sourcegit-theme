@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Cyberpunk 2077",
+  "Author": "@berkanuslu",
+  "Url": "https://github.com/berkanuslu",
   "BasicColors": {
     "Window": "#131313",
     "WindowBorder": "#131313",

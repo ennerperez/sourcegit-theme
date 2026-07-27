@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Catpuccin Mocha",
+  "Author": "@eljoth",
+  "Url": "https://github.com/eljoth",
   "BasicColors": {
     "Window": "#1e1e2e",
     "WindowBorder": "#313244",

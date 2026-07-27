@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Catpuccin Latte",
+  "Author": "@eljoth",
+  "Url": "https://github.com/eljoth",
   "BasicColors": {
     "Window": "#eff1f5",
     "WindowBorder": "#e6e9ef",

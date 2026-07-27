@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Nord Light",
+  "Author": "@AndrewDilman",
+  "Url": "https://github.com/AndrewDilman",
   "BasicColors": {
     "Window": "#fefefe",
     "WindowBorder": "#fefefe",

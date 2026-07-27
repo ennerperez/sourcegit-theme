@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Trae Theme",
+  "Author": "@ryan-sdjr",
+  "Url": "https://github.com/ryan-sdjr",
   "BasicColors": {
     "Window": "#1A1B1C",
     "WindowBorder": "#1A1B1C",

@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Catpuccin Frappe",
+  "Author": "@eljoth",
+  "Url": "https://github.com/eljoth",
   "BasicColors": {
     "Window": "#303446",
     "WindowBorder": "#313244",

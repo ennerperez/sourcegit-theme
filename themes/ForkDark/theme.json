@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "ForkDark",
+  "Author": "@carun",
+  "Url": "https://github.com/carun",
     "BasicColors": {
         "Window": "#1E1E1E",
         "WindowBorder": "#252526",

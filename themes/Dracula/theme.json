@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Dracula",
+  "Author": "Dracula Theme",
+  "Url": "https://draculatheme.com/",
   "BasicColors": {
     "Window": "#282a36",
     "WindowBorder": "#282a36",

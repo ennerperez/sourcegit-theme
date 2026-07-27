@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "One Dark",
+  "Author": "One Dark",
+  "Url": "https://github.com/one-dark",
   "BasicColors": {
     "Window": "#282c34",
     "WindowBorder": "#181a1f",

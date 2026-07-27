@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "Solarized Light Bordered",
+  "Author": "Ethan Schoonover",
+  "Url": "https://ethanschoonover.com/solarized/",
   "BasicColors": {
     "Window": "#fdf6e3",
     "WindowBorder": "#fdf6e3",
