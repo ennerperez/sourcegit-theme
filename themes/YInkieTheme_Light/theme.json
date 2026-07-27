@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "YInkie Theme Light",
+  "Author": "@TrinkieYinkie",
+  "Url": "https://github.com/TrinkieYinkie",
   "BasicColors": {
     "Window": "#eae2d8",
     "WindowBorder": "#a5988c",

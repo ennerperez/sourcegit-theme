@@ -1,4 +1,9 @@
 {
+  "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
+  "Version": "1.0",
+  "Name": "YInkie Theme Dark",
+  "Author": "@TrinkieYinkie",
+  "Url": "https://github.com/TrinkieYinkie",
   "BasicColors": {
     "Window": "#191b21",
     "WindowBorder": "#41444c",
