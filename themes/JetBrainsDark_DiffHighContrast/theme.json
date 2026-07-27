@@ -1,7 +1,7 @@
 {
   "$schema": "https://sourcegit-scm.github.io/sourcegit-theme.schema.json",
   "Version": "1.0",
-  "Name": "JetBrainsDark DiffHighContrast",
+  "Name": "JetBrains Dark Diff High Contrast",
   "Author": "@MelonHell",
   "Url": "https://gist.github.com/MelonHell",
   "BasicColors": {
